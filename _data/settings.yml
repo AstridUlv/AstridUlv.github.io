@@ -4,13 +4,9 @@ menu:
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
-courses:
-- {name: 'Teaching Experience', url: 'teaching-experience'}
-
 social:
-- {icon: 'github', link: 'https://github.com/AstridUlv'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/astrid-thomsen'}
 - {icon: 'envelope', link: 'mailto:aut.si@cbs.dk'}
 
 contacts:
-- {name: 'Astrid Ulv Thomsen', title: 'PhD Fellow', department: 'Strategy and Innovation', institution: 'Copenhagen Business School', institution_address: 'Kilevej 14A, 2000 Frederiksberg, Denmark', phone: '', email: 'aut.si@cbs.dk', office: '', image: 'assets/img/contact.jpg'}
+- {name: 'Astrid Ulv Thomsen', title: 'PhD Fellow', department: 'Strategy and Innovation', institution: 'Copenhagen Business School', institution_address: 'Kilevej 14A, 2000 Frederiksberg, Denmark', email: 'aut.si@cbs.dk', image: 'assets/img/contact.jpg'}
