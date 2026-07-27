@@ -4,6 +4,9 @@ menu:
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
+courses:
+- {name: 'Teaching Experience', url: 'teaching-experience'}
+
 social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/astrid-thomsen'}
 
