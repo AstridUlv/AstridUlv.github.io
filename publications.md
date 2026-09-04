@@ -5,7 +5,7 @@ title: "Research"
 
 #### Job Market Paper
 
-**From the Ivory Tower to Capitol Hill: Gender, Mobility, and Expert Advisory Work**
+**Mobility Friction and Gender Disparities in Expert Advisory Work: Evidence from the U.S. Congress**
 *with Yotam Sofer*
 
 Examining academic economists' engagement with public policymakers, this paper investigates whether geographic mobility friction contributes to gender disparities in expert testimony before the U.S. Congress. We argue that expert engagement is a spatially concentrated activity and that women face systematically higher costs of geographic mobility, constituting an overlooked supply-side constraint on their participation in high-impact expert advisory work. Using a COVID-19-related policy shift from in-person to online hearings as a source of exogenous variation in mobility requirements, we show that reducing geographic friction significantly changed the composition of expert witnesses. Constructing a dataset of the universe of economists who have testified since 1969 and a large at-risk group of intellectually proximate economists, we find a consistent female disadvantage in the odds of appearing as a witness. Geographic distance from Washington, DC reduces the odds of testifying for all economists, but has a stronger effect on women. Following the shift to online hearings, female economists were significantly more likely to testify relative to men. Working-from-anywhere policies, by lowering mobility friction, can broaden organizations' access to a wider pool of experts.
