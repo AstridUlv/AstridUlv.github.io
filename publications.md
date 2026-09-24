@@ -12,7 +12,7 @@ Examining academic economists' engagement with public policymakers, this paper i
 
 [Download PDF](/assets/jmp-ivory-tower-capitol-hill.pdf) 
 
-Presented at: CCC Conference 2026 (Milan) · DRUID 2026 (Copenhagen) · Academy of Management 2025 (Copenhagen) · ICSSI 2025 (Copenhagen) · Open Innovation in Science 2025 (Vienna) · WOEPS 2025 (Strasbourg) · DRUID Academy 2025 (Aalborg) · RISE7 2024 (Munich) · MaxSI Workshop 2024 (Copenhagen) 
+Presented at: Strategic Management Society 2026 (Berlin) · CCC Conference 2026 (Milan) · DRUID 2026 (Copenhagen) · Academy of Management 2025 (Copenhagen) · ICSSI 2025 (Copenhagen) · Open Innovation in Science 2025 (Vienna) · WOEPS 2025 (Strasbourg) · DRUID Academy 2025 (Aalborg) · RISE7 2024 (Munich) · MaxSI Workshop 2024 (Copenhagen) 
 
 ---
 
@@ -25,7 +25,7 @@ Research funding shapes which scientific questions get pursued and at what scale
 
 [Available on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7510058)
 
-Presented at: Academy of Management 2026 (Philadelphia, planned) · Research Policy 11th Online Conference for Early Career Researchers 2026 · DRUID 2026 (Copenhagen) · RISE8 2025 (Munich) · MaxSI Workshop 2025 (Munich) · Funding of Science and Innovation 2025 (Stockholm)
+Presented at: Academy of Management 2026 (Philadelphia) · Research Policy 11th Online Conference for Early Career Researchers 2026 · DRUID 2026 (Copenhagen) · RISE8 2025 (Munich) · MaxSI Workshop 2025 (Munich) · Funding of Science and Innovation 2025 (Stockholm)
 
 ---
 
